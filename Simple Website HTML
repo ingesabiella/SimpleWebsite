@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html>
+  <head>
+    <script>
+      function myFunction() {
+        document.getElementById("demo").innerHTML = "Everything's alright!.";
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Hello Sunshine!</h1>
+  </body>
+</html>
+<html>
+  <meta charset="utf-8" />
+  <title>{Ingesabiella}</title>
+  <head>
+    <body>
+      <img
+        src="https://dz6knj20ch8bg.cloudfront.net/9d1/4e2a1/6f4e/4a63/ba71/238e51bc9225/original/141070.jpg"
+        alt="my test image"
+      />
+    </body>
+
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <p id="demo">How are you?.</p>
+    <button type="button" onclick="myFunction()">All is Well!</button>
+    <h2>❤️My Profile</h2>
+    <p class="editor-note">
+      <strong> Hey Sweetheart!</strong> Welcome to my first website that I
+      programmed and developed by using HTML and CSS. My name is
+      <strong>Inge Salsabila Suryaman.</strong> I'm 22 Years old, from
+      Indonesia.
+    </p>
+    <h2>❤️Background</h2>
+
+    <p>
+      I study Digital Marketing Communications at Bakrie University. The work
+      that I handled usually around Digital Marketing, Brand Awareness, Social
+      Media Strategy, and Consumer Behavior Research. As a social media
+      specialist I responsible for planning, implementing and monitoring the
+      company's Social Media strategy in order to increase brand awareness.
+      Social Media (Instagram) that I currently handled are:
+      <a href="https://www.instagram.com/Lanangt3lu.koffie/">LanangT3lu</a>,
+      <a href="https://www.instagram.com/bradjaningrad.id/">Bradjaningrad</a>,
+      and <a href="https://www.instagram.com/poetreraja/">Poetre Raja</a> .
+    </p>
+
+    <h2>
+      ❤️Personal Life
+    </h2>
+
+    <p class="editor-note">
+      In my free time, I'm active as a community leader for
+      <a href="https://www.instagram.com/sahabatbacaku/">Sahabat Baca</a>
+      and beauty blogger for
+      <a href="https://reviews.femaledaily.com/user/ingesabiella?tab=reviews"
+        >Female Daily</a
+      >
+      If you want to be my online friends you can visit my social media and
+      follow me, Here my Social Media Links:
+      <a href="https://www.instagram.com/ingesabiella"> Instagram</a>,
+      <a href="https://www.linkedin.com/in/inge-salsabila-suryaman-68845a12b/"
+        >Linked In</a
+      >, <a href="https://twitter.com/ingesabiella"> Twitter</a>,
+      <a href="https://www.facebook.com/ingesabella">Facebook</a>,
+      <a href="https://ingesabiella.wordpress.com/">Blog Site</a>
+      Find me and don't forget to reach out dear! Just send me a message and
+      I'll reply immediately
+    </p>
+
+    <script src="scripts/main.js"></script>
+  </body>
+</html>
